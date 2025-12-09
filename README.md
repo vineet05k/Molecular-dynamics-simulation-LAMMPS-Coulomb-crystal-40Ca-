@@ -1,1 +1,1 @@
-# Molecular-dynamics-simulation-LAMMPS-Coulomb-crystal-40Ca-
+# Molecular-dynamics-simulation-LAMMPS-Coulomb-crystal-40Ca+
